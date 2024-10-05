@@ -1,12 +1,12 @@
 [![MasterHead](https://i.imgur.com/cfuMtmK.png)](https://www.shriyanyamali.tech/)
 
 <h1 align="center">Hi 👋, I'm Shriyan Yamali</h1>
-<h3 align="center">A high school student interested in computer science and law.</h3>
+<3h4align="center">I'm high school student interested in computer science and law.</h4>
 <img align="right" alt="Animated JavaScript Gif" width="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
 
 - 🔭 I’m currently working on [Verdictr](https://verdictr.github.io/)
 
-- 🌱 I’m currently learning **React, Next.js, Machine Learning, & Python**
+- 🌱 I’m currently learning **Next.js, Machine Learning, & Python**
 
 - 🔗Check out my website at [shriyanyamali.tech](https://www.shriyanyamali.tech/)
 
