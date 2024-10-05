@@ -1,5 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Shriyan Yamali</h1>
 <h3 align="center">A high school student interested in computer science and law.</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/code-developer-javascript-SvFocn0wNMx0iv2rYz">
 
 - 🔭 I’m currently working on [Verdictr](https://verdictr.github.io/)
 
