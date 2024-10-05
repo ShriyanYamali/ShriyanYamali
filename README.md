@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React, Next.js, Machine Learning, & Python**
 
-- 🔗Check out my website at [shriyanyamali.tech](shriyanyamali.tech)
+- 🔗Check out my website at [shriyanyamali.tech](https://www.shriyanyamali.tech/)
 
 - 📫 Email me at **srujanshriyan@gmail.com**
 
-- 📄 See my experience: [shriyanyamali.tech/resume](shriyanyamali.tech/resume)
+- 📄 See my experience: [shriyanyamali.tech/resume](https://shriyanyamali.tech/resume)
 
 - ⚡ Fun fact about me: **I love to cook!**
 
