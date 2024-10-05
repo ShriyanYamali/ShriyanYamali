@@ -7,9 +7,9 @@
 
 - 🔗Check out my website at [shriyanyamali.tech](https://www.shriyanyamali.tech/)
 
-- 📫 Email me at **srujanshriyan@gmail.com**
-
 - 📄 See my experience: [shriyanyamali.tech/resume](https://shriyanyamali.tech/resume)
+
+- 📫 Email me at **srujanshriyan@gmail.com**
 
 - ⚡ Fun fact about me: **I love to cook!**
 
