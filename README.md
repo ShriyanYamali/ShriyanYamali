@@ -1,7 +1,7 @@
 [![MasterHead](https://i.imgur.com/cfuMtmK.png)](https://www.shriyanyamali.tech/)
 
 <h1 align="center">Hi 👋, I'm Shriyan Yamali</h1>
-<3h4align="center">I'm high school student interested in computer science and law.</h4>
+<h4 align="center">I'm high school student interested in computer science and law.</h4>
 <img align="right" alt="Animated JavaScript Gif" width="400" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif">
 
 - 🔭 I’m currently working on [Verdictr](https://verdictr.github.io/)
