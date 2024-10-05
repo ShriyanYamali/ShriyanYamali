@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/a/ZhzmCLz)](https://www.shriyanyamali.tech/)
+[![MasterHead](https://i.imgur.com/oaSQslW.png)](https://www.shriyanyamali.tech/)
 
 <h1 align="center">Hi 👋, I'm Shriyan Yamali</h1>
 <h3 align="center">A high school student interested in computer science and law.</h3>
