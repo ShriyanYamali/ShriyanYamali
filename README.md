@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Shriyan Yamali</h1>
 <h3 align="center">A high school student interested in computer science and law.</h3>
-<img align="right" alt="Animated JavaScript Gif" width="350" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif">
+<img align="right" alt="Animated JavaScript Gif" width="250" src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif">
 
 - 🔭 I’m currently working on [Verdictr](https://verdictr.github.io/)
 
