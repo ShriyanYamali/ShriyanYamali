@@ -14,7 +14,7 @@
 
 - 📫 Email me at **srujanshriyan@gmail.com**
 
-- 🗣️ I speak **English, Telugu**, and am currently learning **Spanish**
+- 🗣️ I speak **English**, **Telugu**, and am currently learning **Spanish**
 
 - ⚡ Fun fact about me: **I love to cook!**
 
