@@ -12,7 +12,7 @@
 
 - 📄 See my experience: [shriyanyamali.tech/resume](https://shriyanyamali.tech/resume)
 
-- 📫 Email me at **yamalishriyan@gmail.com**
+- 📫 Email me at yamalishriyan@gmail.com
 
 - 🗣️ I speak **English**, **Telugu**, and am currently learning **Spanish**
 
