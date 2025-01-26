@@ -10,7 +10,7 @@
 
 - 🔗Check out my website at [shriyanyamali.tech](https://www.shriyanyamali.tech/)
 
-- 📄 See my resume: [Resume]([https://shriyanyamali.tech/resume](https://www.shriyanyamali.tech/Shriyan%20Yamali%20Resume.pdf))
+- 📄 See my resume: [Resume](https://www.shriyanyamali.tech/Shriyan%20Yamali%20Resume.pdf)
 
 - 📫 Email me at yamalishriyan@gmail.com
 
